@@ -32,8 +32,9 @@ sudo kextload /Library/Extensions/USBCDCEthernet.kext
 Thanks and Acknowledgements
 ---------------------------
 
-Driver Davicom from Haiku project.
-Based on USBCDCEthernet example from IOUSBFamily-560.4.2.
+- Driver Davicom from Haiku project.
+- Based on USBCDCEthernet example from IOUSBFamily-560.4.2.
+- samuelv0304 https://github.com/samuelv0304/USBCDCEthernet
 
 License
 -------
